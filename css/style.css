@@ -17098,7 +17098,7 @@ html.rd-navbar-fixed-linked .page {
 @media (min-width: 1200px) {
 	.rd-navbar-corporate.rd-navbar-static .rd-navbar-brand img {
 		max-width: 225px;
-		max-height: 190px;
+		max-height: 70px;
 	}
 }
 
