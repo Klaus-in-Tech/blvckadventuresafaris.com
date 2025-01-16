@@ -183,6 +183,7 @@ h2,
 	.heading-2 {
 		font-size: 48px;
 		line-height: 1.2;
+		color: #ffffff;
 	}
 }
 
@@ -7811,7 +7812,7 @@ textarea.textarea-lg {
 }
 
 .breadcrumbs-custom-path a, .breadcrumbs-custom-path a:active, .breadcrumbs-custom-path a:focus {
-	color: #ffffff;
+	color: #ffff;
 }
 
 .breadcrumbs-custom-path a:hover {
@@ -7843,7 +7844,7 @@ textarea.textarea-lg {
 }
 
 .breadcrumbs-custom-path li.active {
-	color: rgba(255, 255, 255, 0.53);
+	color: #ffffff;
 }
 
 * + .breadcrumbs-custom-path {
