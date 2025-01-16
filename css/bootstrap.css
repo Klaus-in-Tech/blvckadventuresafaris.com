@@ -129,7 +129,7 @@ sup {
 }
 
 a {
-	color: #01b3a7;
+	color: #B24B11;
 	text-decoration: none;
 	background-color: transparent;
 	-webkit-text-decoration-skip: objects;
@@ -2180,7 +2180,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
 	font-weight: 400;
-	color: #01b3a7;
+	color: #B24B11;
 	background-color: transparent;
 }
 
@@ -3954,7 +3954,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
 	z-index: 2;
-	color: #50ba87;
+	color: #B24B11;
 	text-decoration: none;
 	background-color: transparent;
 	border-color: transparent;
@@ -3983,7 +3983,7 @@ input[type="button"].btn-block {
 
 .page-item.active .page-link {
 	z-index: 1;
-	color: #50ba87;
+	color: #B24B11;
 	background-color: transparent;
 	border-color: transparent;
 }
